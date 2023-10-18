@@ -1,0 +1,4 @@
+rootProject.name = 'task6'
+
+include 'annotation-processor'
+include 'annotation-processor-example'
